@@ -1,4 +1,4 @@
-package MyProject;
+package ProjectX;
 
 public class Switch {
 
